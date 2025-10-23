@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Bioglow",
+        "date": "Biomaterial, imagen de marca y logo",
+        "photo": "https://l1vk4.github.io/8va-clase/fotos//bioglow.png",
+        "description": "Biomaterial iridiscente",
+        "category": "2024-1"
+    },
+    {
+        "title": "Brandbook Clientmetrica",
+        "date": "Identidad de marca",
+        "photo": "https://l1vk4.github.io/8va-clase/fotos/brandbook.png",
+        "description": "Identidad de Marca pra Clientmetrica",
+        "category": "2025-1"
+    },
+    {
+        "title": "Ultika",
+        "date": "Biomaterial",
+        "photo": "https://l1vk4.github.io/8va-clase/fotos/ultika.jpg",
+        "description": "Material aislante de energía",
+        "category": "2025-1"
+    },
+    {
+        "title": "Afiche tipográfico",
+        "date": "Gráfico",
+        "photo": "https://l1vk4.github.io/8va-clase/fotos/afiche.png",
+        "description": "Identidad a través de dos tipografías",
+        "category": "2024-2"
+    },
+    {
+        "title": "Seacure",
+        "date": "Biomaterial",
+        "photo": "https://l1vk4.github.io/8va-clase/fotos/shelly.png",
+        "description": "Biomaterial de packaging secundario",
+        "category": "2023-1"
+    },
+    {
+        "title": "Bifly",
+        "date": "Industrial",
+        "photo": "https://l1vk4.github.io/8va-clase/fotos/banquito.png",
+        "description": "Banco tipo tenso estructura",
+        "category": "2023-2"
+    }
+]
