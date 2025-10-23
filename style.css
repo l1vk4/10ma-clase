@@ -61,7 +61,7 @@
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15) !important;
 }
 .card-img-top {
-    height: 400px;
+    height: 225px;
     object-fit: cover;
 }
 .date-badge {
