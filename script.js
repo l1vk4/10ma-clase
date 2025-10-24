@@ -27,4 +27,4 @@ async function datos(raw) {
     }
 }
 
-datos("https://raw.githubusercontent.com/l1vk4/10ma-clase/refs/heads/main/datos.json");
+datos("https://api.myjson.online/v1/records/3fb2b81d-5f1e-40fa-a582-fdd841fd8467");
